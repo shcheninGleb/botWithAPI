@@ -1,1 +1,4 @@
 requests~=2.27.1
+schedule~=1.1.0
+django-scheduler~=0.9.6
+PyTelegramBotAPI~=3.6.6
